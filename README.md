@@ -1,6 +1,6 @@
 # Diagnosing-Chronic-Kidney-Disease-Using-Machine-Learning-Algorithms-
-Project Supervisor: Mr Ashutosh Shankhdhar, Assistant Professor 
-Project Group Members: 
+# Project Supervisor: Mr Ashutosh Shankhdhar (Assistant Professor )
+# Project Group Members: 
 1)	Shubham Sharma (Sec- C Univ Roll No. - 181500696)	
 2)	Vivek Kumar Singh (Sec-C Univ Roll No. - 181500819)	
 
